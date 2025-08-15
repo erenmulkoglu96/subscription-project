@@ -7,3 +7,12 @@ SubscriptionWeb/src/MessageForm.js linguist-vendored
 SubscriptionWeb/src/MessageIcon.js linguist-vendored
 SubscriptionWeb/src/MessageIconWithCount.js linguist-vendored
 SubscriptionWeb/src/MessageList.js linguist-vendored
+SubscriptionWeb/src/ReceivedMessagesModal.js linguist-vendored
+SubscriptionWeb/src/Register.js linguist-vendored
+SubscriptionWeb/src/SubscriberList.js linguist-vendored
+SubscriptionWeb/src/Subscription.js linguist-vendored
+SubscriptionWeb/src/UserList.js linguist-vendored
+SubscriptionWeb/src/UserListModal.js linguist-vendored
+SubscriptionWeb/src/index.js linguist-vendored
+SubscriptionWeb/src/UserList.js linguist-vendored
+
